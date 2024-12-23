@@ -57,7 +57,7 @@ export default function ForgotPasswordEmail({ username,resetUrl }: ForgotPasswor
                     </Row>
                     <Row>
                         <Text style={styles.text}>
-                            If you didn't request a password reset, please ignore this email. If you have any questions, feel free to <Link href="mailto:pankajsarawag2@gmail.com" style={styles.link}>contact us</Link>.
+                            If you didn't request a password reset, please ignore this email. If you have any questions, feel free to <Link href="mailto:malviyasmarika@gmail.com" style={styles.link}>contact us</Link>.
                         </Text>
                     </Row>
                     <Row>
